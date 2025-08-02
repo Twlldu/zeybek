@@ -26,6 +26,17 @@ ZeybekHome is a modern, fully responsive corporate website template built to hig
 - **Performance-First** – Optimized for fast load times, lazy-loading images, and minimal dependencies.  
 - **SEO & Accessibility** – Semantic HTML, ARIA attributes, and meta tags pre-configured for better search ranking and usability.
 
+## Built With
+
+- **HTML5**  
+- **SCSS & CSS3** – Modular, maintainable styles  
+- **Bootstrap 5** – Responsive grid & components  
+- **JavaScript (ES6+)** – Dynamic interactivity  
+- **CodeIgniter 3** – MVC backend framework  
+- **Docker** – Containerized deployment  
+- **Git & GitHub** – Version control  
+
+
 🌐 https://zeybekhome.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin) [![Instagram](https://img.shields.io/badge/Instagram-Follow-magenta?logo=instagram)](https://www.instagram.com)
