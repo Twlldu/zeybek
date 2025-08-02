@@ -1,0 +1,43 @@
+{
+    "BasePath": "assets/images",
+    "categories": [
+      {
+        "category": "Yemek Odası Takımı",
+        "products": [
+          {
+            "productId": "0f154d9e-f039-4137-a9ab-df649e6ef029",
+            "slug": "petra-yemek-odasi",
+            "productName": "Petra Yemek Odası",
+            "photos": [
+              "petra-yasam/PETRA-1.jpg"
+            ]
+          },
+          {
+            "productId": "bbad22fa-f66b-43d2-b439-d30f494f60c3",
+            "slug": "lotus-yemek-odasi",
+            "productName": "Lotus Yemek Odası",
+            "photos": [
+              "lotus/LOTUS-1.jpg"
+            ]
+          },
+          {
+            "productId": "41b3af0b-37f8-41eb-b6e8-3e7e6a6bb9b2",
+            "slug": "enna-yemek-odasi",
+            "productName": "Enna Yemek Odası",
+            "photos": [
+              "enna-yasam/1.png"
+            ]
+          },
+          {
+            "productId": "0d274404-7c3e-466c-9d47-cedf14f4fbc4",
+            "slug": "enna-plus-yemek-odasi",
+            "productName": "Enna Plus Yemek Odası",
+            "photos": [
+              "enna-plus/3.png"         
+           ]
+          }
+        ]
+      }
+   ]
+}
+  
