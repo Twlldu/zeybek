@@ -1,5 +1,9 @@
 # ZeybekHome
 
+<p align="center">
+  <img src="https://zeybekhome.com/assets/images/zeybek-logo.png" alt="ZeybekHome Logo" width="200" />
+</p>
+
 ZeybekHome is a modern, fully responsive corporate website template built to highlight your company’s identity, showcase partner brands, and present high-quality photo galleries. It comes with:
 
 - **Customizable Hero Banner** – Grab attention immediately with a full-width, easily editable hero section.  
