@@ -1,6 +1,6 @@
 # ZeybekHome
 
-<p align="center">
+<p align="center" style="padding:10px,10px,10px;">
   <picture>
     <!-- Dark mode: use the white logo -->
     <source
