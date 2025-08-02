@@ -1,8 +1,23 @@
 # ZeybekHome
 
 <p align="center">
-  <img src="https://zeybekhome.com/assets/images/zeybek-logo.png" alt="ZeybekHome Logo" width="200" />
+  <picture>
+    <!-- when reader is in dark mode, show the white logo -->
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://zeybekhome.com/assets/images/zeybek-logo-white.png" />
+    <!-- when reader is in light mode, show the black logo -->
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://zeybekhome.com/assets/images/zeybek-logo.png" />
+    <!-- fallback if neither query matches -->
+    <img
+      src="https://zeybekhome.com/assets/images/zeybek-logo.png"
+      alt="ZeybekHome Logo"
+      width="200" />
+  </picture>
 </p>
+
 
 ZeybekHome is a modern, fully responsive corporate website template built to highlight your company’s identity, showcase partner brands, and present high-quality photo galleries. It comes with:
 
