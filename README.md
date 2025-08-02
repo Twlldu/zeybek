@@ -11,5 +11,5 @@ ZeybekHome is a modern, fully responsive corporate website template built to hig
 
 🌐 https://zeybekhome.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin)  
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-magenta?logo=instagram)](https://www.instagram.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin) [![Instagram](https://img.shields.io/badge/Instagram-Follow-magenta?logo=instagram)](https://www.instagram.com)
+
